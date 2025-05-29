@@ -46,7 +46,7 @@ Used **Google Firebase** for authentication:
 ## 🖼️ Screenshots
 
 ### 🏠 Landing Page (Post Login)
-![Landing Page](./image.png)
+![Landing Page](./image.jpg)
 
 ### 🎬 Movie Description Page
 ![Movie Description](./image2.png)
