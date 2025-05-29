@@ -37,13 +37,13 @@ This project leverages the **TMDB API** to provide live movie data, ensuring use
 ## 📸 Screenshots
 
 ### 🏠 Landing Page (After Successful Login)
-![Landing Page](./image.png)
+![Landing Page](image.png)
 
 ### 🎬 Movie Description Page
-![Movie Description](./image2.png)
+![Movie Description](image2.png)
 
 ### 🔍 Search Results for "Doraemon"
-![Search Results](./image3.png)
+![Search Results](image3.png)
 
 ---
 
