@@ -6,4 +6,4 @@
 
 ### Netflix Promo
 
-![Netflix](./netflix.jpg)
+![Netflix](./netflixxx.jpg)
